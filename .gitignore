@@ -1,0 +1,15 @@
+# my dot file
+/*
+/.*
+
+# allow any
+!/.gitignore
+!*.vimrc
+!*.zshrc
+!*.zshenv
+!*.tmux.conf
+!*.create_prezto.sh
+
+!/.zprezto/
+!/.zprezto/*
+

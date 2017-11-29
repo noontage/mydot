@@ -1,0 +1,1 @@
+/home/shinoda/.zprezto/runcoms/zshrc
